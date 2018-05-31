@@ -1,7 +1,7 @@
 #ifndef __SORT_H__
 #define __SORT_H__
 
-
+//C++代码
 namespace DTLib
 {
 
